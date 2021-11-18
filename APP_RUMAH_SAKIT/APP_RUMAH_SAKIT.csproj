@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E793994C-BBFE-4D84-855A-DF6E7AE0B9B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>APP_RUMAH_SAKIT</RootNamespace>
+    <AssemblyName>APP_RUMAH_SAKIT</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="connecting.cs" />
+    <Compile Include="FrmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdmin.Designer.cs">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDokter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDokter.Designer.cs">
+      <DependentUpon>FrmDokter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrint.Designer.cs">
+      <DependentUpon>FrmPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Koneksi_DB.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UcDiagnose.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcDiagnose.Designer.cs">
+      <DependentUpon>UcDiagnose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcDokter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcDokter.Designer.cs">
+      <DependentUpon>UcDokter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcObat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcObat.Designer.cs">
+      <DependentUpon>UcObat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcPasien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcPasien.Designer.cs">
+      <DependentUpon>UcPasien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcPasienD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcPasienD.Designer.cs">
+      <DependentUpon>UcPasienD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcPengobatan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcPengobatan.Designer.cs">
+      <DependentUpon>UcPengobatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcResep.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcResep.Designer.cs">
+      <DependentUpon>UcResep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcWelcome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcWelcome.Designer.cs">
+      <DependentUpon>UcWelcome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmAdmin.resx">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDokter.resx">
+      <DependentUpon>FrmDokter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrint.resx">
+      <DependentUpon>FrmPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcDiagnose.resx">
+      <DependentUpon>UcDiagnose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcDokter.resx">
+      <DependentUpon>UcDokter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcObat.resx">
+      <DependentUpon>UcObat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcPasien.resx">
+      <DependentUpon>UcPasien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcPasienD.resx">
+      <DependentUpon>UcPasienD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcPengobatan.resx">
+      <DependentUpon>UcPengobatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcResep.resx">
+      <DependentUpon>UcResep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcWelcome.resx">
+      <DependentUpon>UcWelcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MyPC-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_rounded_right1600.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\access-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1600.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1600 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\papers.co-sh62-blue-green-old-kbs-gradation-blur-6-wallpaper-340x340.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-background-blue-color-Favim.com-2166539.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ww.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\halation_7color_orangecyan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06-gradient1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06-gradient11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\762447d9ca0f97b983f056b842209fc3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-background-blue-color-Favim.com-21665391.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06-gradient12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-5121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06-gradient13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22761-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1600 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06-gradient14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\utama.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dokter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pasien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xgwsazhuzgbydhvnuxbb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People_Medical_Education_Science_Resident_doctor_man-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\848331_calendar_512x512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital-image-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_time.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-Dialog-Shutdown-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xgwsazhuzgbydhvnuxbb1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2714df78453a57b95a51ba60839c8c66.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

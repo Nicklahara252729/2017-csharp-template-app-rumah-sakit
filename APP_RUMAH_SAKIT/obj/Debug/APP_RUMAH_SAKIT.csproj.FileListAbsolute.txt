@@ -1,0 +1,80 @@
+c:\users\mustaamir\documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.exe.config
+c:\users\mustaamir\documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.exe
+c:\users\mustaamir\documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.pdb
+c:\users\mustaamir\documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmAdmin.resources
+c:\users\mustaamir\documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmLogin.resources
+c:\users\mustaamir\documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.Properties.Resources.resources
+c:\users\mustaamir\documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.csproj.GenerateResource.Cache
+c:\users\mustaamir\documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.exe
+c:\users\mustaamir\documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.pdb
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcWelcome.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcDokter.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcObat.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPasien.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPengobatan.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmDokter.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcDiagnose.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcResep.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPasienD.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmPrint.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.exe.config
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.exe
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.pdb
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.exe
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.pdb
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmAdmin.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmDokter.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmLogin.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmPrint.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.Properties.Resources.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcDiagnose.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcDokter.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcObat.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPasien.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPasienD.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPengobatan.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcResep.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcWelcome.resources
+C:\Users\MUSTAAMIR\Documents\APP_RUMAH_SAKIT - TAMPLATE\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmAdmin.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmDokter.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmLogin.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmPrint.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcDiagnose.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcDokter.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcObat.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPasien.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPasienD.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPengobatan.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcResep.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcWelcome.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.pdb
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.exe.config
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.exe
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.pdb
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.exe
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\bin\Debug\APP_RUMAH_SAKIT.pdb
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.csprojResolveAssemblyReference.cache
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmAdmin.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmDokter.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmLogin.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.FrmPrint.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.Properties.Resources.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcDiagnose.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcDokter.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcObat.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPasien.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPasienD.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcPengobatan.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcResep.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.UcWelcome.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\app_rumah_sakit - tamplate\APP_RUMAH_SAKIT\obj\Debug\APP_RUMAH_SAKIT.csproj.GenerateResource.Cache
